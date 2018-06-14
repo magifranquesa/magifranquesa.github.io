@@ -1,1 +1,1 @@
-# magifranquesa.github.io
+# Earth Observation
